@@ -35,7 +35,7 @@
         }
     ],
     "require": {
-        "pvtl/voyager-frontend": "^1.0",
+        "charlielove/voyager-frontend": "dev-L9",
         "tcg/voyager": "^1.6.dev",
         "guzzlehttp/guzzle": "~7.0"
     },
