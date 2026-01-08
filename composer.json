@@ -36,7 +36,7 @@
     ],
     "require": {
         "charlielove/voyager-frontend": "*",
-        "tcg/voyager": "*",
+        "tcg/voyager": "^1.8",
         "guzzlehttp/guzzle": "~7.0"
     },
     "require-dev": {
